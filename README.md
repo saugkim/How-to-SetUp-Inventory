@@ -1,0 +1,58 @@
+# SetUpInventory
+study
+Unity Tutorial: Creating an inventory
+
+PART 9.1-9.6: More chest! (katsotaan)
+PART 8.1-8.8: Item Crafting
+
+PART 7: ITEM Equipment
+7.1 - Preparing for equipment 
+https://www.youtube.com/watch?v=FcqW5Nmh6Qs 
+7.2 - Character panel layout 
+https://www.youtube.com/watch?v=xZGExnQ9iCQ 
+7.3 - Equipping items
+https://www.youtube.com/watch?v=PLI25GgdGLY
+7.4 - Equipping weapons
+https://www.youtube.com/watch?v=lzJIcjWT41Q
+(PART 7.5) - Opening the panel 
+https://www.youtube.com/watch?v=IJAF38QVAc4
+7.6 - Calculate Stats
+https://www.youtube.com/watch?v=0Q4MKj-w0U4
+7.7 - Saving and Loading
+https://www.youtube.com/watch?v=32cz569IM_c
+
+PART 6: Items data by XML 
+6.1 - Generating Equipment from XML
+https://www.youtube.com/watch?v=ldz1smT07Xs
+6.2 - Creating the XML document
+https://www.youtube.com/watch?v=2hbK-t6kGL8
+6.3 - Picking up the XML items
+https://www.youtube.com/watch?v=-xexqjQe51k
+6.4 - Updating the tooltip
+https://www.youtube.com/watch?v=zQt62DgWS8g
+6.5 - Loading from XML
+https://www.youtube.com/watch?v=TgRlQkwIsls
+6.6 - Dropping items
+https://www.youtube.com/watch?v=EL0mkKFrhjQ
+6.7 - Bug fixing
+https://www.youtube.com/watch?v=U_eYpPP8LIY
+
+
+PART 5: CHEST, BANK storage
+(PART 5.1) - BankStorage
+https://www.youtube.com/watch?v=AEqepVzqBhg
+(PART 5.2) - BankStorage
+https://www.youtube.com/watch?v=wiXZxN_4asE
+(PART 5.3) - Tooltip Fix
+https://www.youtube.com/watch?v=R2Mys6jIONQ
+(Part 5.4) bug fixing
+https://www.youtube.com/watch?v=4lgeLOBUPoM
+
+PART 4 - Dropping items
+https://www.youtube.com/watch?v=uSO8ZfbICmE
+PART 3 - Tooltips
+https://www.youtube.com/watch?v=AKeI5_DqEFc
+PART 2 - Splitting Stacks & Saving
+https://www.youtube.com/watch?v=AzkRpc1SMJc
+PART 1 - The basic functionality
+https://www.youtube.com/watch?v=KLaGkc87dDQ
