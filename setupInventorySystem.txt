@@ -1,0 +1,69 @@
+
+***************************************************
+20.6.2018 done
+
+OnScope Studios
+Unity Tutorials: Creating Inventory Part 1 - 9.
+
+very good, Item data saved as XML in streamingAsset folder
+Inventory data saved as PlayerPrefs working fine
+
+
+works will be done: try to save both as JSON
+
+
+**********************************************
+
+GameGrind
+Inventory System Tutorial in Unity 5 - PART 1
+
+https://www.youtube.com/watch?v=ZW6RCKVnqT4
+https://www.youtube.com/watch?v=x24t4DCxGh8&t=3s
+
+LitJson!!!!
+***********************************************
+????
+http://truecode.tistory.com/74?category=611884
+
+Save inventory data using XML 
+worth to see in Korean
+
+
+in korea 
+http://mastersooah.tistory.com/21
+Inventory With Non Use DB.zip
+
+
+****************************************
+Kryzarel
+
+Items & Inventory in Unity (pt.1) - Start Simple
+No Assets Excellent!!!
+https://www.youtube.com/playlist?list=PLm7W8dbdfloj4CWX8RS5_cnDWVn1Q6u9Q
+https://www.youtube.com/watch?v=bTPEMt1RG3s
+
+VERY NICE, can download whole project 
+
+*******************************************
+
+USING ASSETS free or not
+
+
+Inventor Master Assets
+https://www.youtube.com/playlist?list=PLDdMdd9QzBmblXKc3uWUhKBTB7HhFqz7O
+
+Inventory Master - Inventory System written in C# and uses the new UI System 4.6 - Tutorial Series
+https://www.youtube.com/watch?v=qJMKQyqx4CA&index=7&list=PLDdMdd9QzBmblXKc3uWUhKBTB7HhFqz7O
+Get the Inventory Master Asset for FREE: https://www.assetstore.unity3d.com/en...
+
+*************************************************
+Pluralsight 
+
+Unity Tutorial
+https://unity3d.com/learn/tutorials/projects/adventure-game-tutorial/conditions?playlist=44381
+**************************************************
+
+
+
+
+https://energia.fi/ajankohtaista_ja_materiaalipankki/materiaalipankki/kaukolampotilasto.html#material-view
